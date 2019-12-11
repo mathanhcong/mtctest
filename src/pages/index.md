@@ -1,70 +1,60 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Chào mừng đến với blog mới của tôi
+image: /img/rainstorm-swim-chile_54819_990x742.jpg
+heading: Đây là cái heading
+subheading: thieugiong.com trên nền tảng Netlify - một thử nghiệm mới
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Tại sao lại là Netlify?
+  description: >-
+    Netlify là nền tảng mà tôi mới phát hiện cách đây... 30 phút, do tình cờ
+    lướt 1 video nhảm của anh chàng PewDiePie, sau đó truy cập thử website
+    pewdiepie.store mà anh ta quảng cáo.
+
+
+    Nói chính xác, website đó không có gì đặc biệt, ngoài việc nó tải quá nhanh.
+    Quá nhanh so với những website mà tôi tự cài đặt bằng WordPress. Vậy là tôi
+    tò mò khám phá thử, và vọc ra Netlify.
+
+
+    Hãy thử nghiệm và xem nền tảng này có gì...
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Okay đây là cái meta description "thần thánh". Nó sắp xếp khá lạ trên trang
+  quản trị nội dung (!?)
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/1279668-1366x768.jpg
+      text: >-
+        Đây là ảnh 1 nằm trong phần Blurbs (không biết nó là gì). Up ảnh trên
+        này khá nhanh, nhưng không hiểu sẽ thêm ALT tag như thế nào đây... ?
+    - image: /img/32968-cute-girl-1920x1080-girl-wallpaper.jpg
+      text: 'Ok, bức ảnh số 2 cho web thêm phần sinh động!'
+    - image: /img/2014-03-windows-xp-bliss-wallpaper.jpg
+      text: >-
+        Một bức ảnh cũ nhưng đắt giá. Nó là ảnh nền mặc định của Windows XP, và
+        là một khung cảnh vô cùng tuyệt vời!
+    - image: >-
+        /img/simplereminders.com-freedom-known-krishnamurti-withtext-displayres.jpg
+      text: >-
+        Bìa một cuốn sách cũ. Không liên quan nhưng có vẻ khung upload của cái
+        Netlify này chưa thiết kế trực quan được như bên WP.
+  heading: Đây là heading nhỏ tên là "Intro"
+  description: Đây là mô tả của "Intro"
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: 'Tiêu đề của phần "Main". '
+  description: >-
+    Mô tả của phần "Main". Sau nhiều nội dung thì giờ mới tới "main", hơi lạ (?)
+
+    *P/s: bên dưới là mấy cái ảnh có thể gắn ALT tag, vậy mấy cái trên thì sao
+    nhỉ ??
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Ảnh 1 được cài đặt ALT (vậy mấy cái trên thì sao nhỉ?)
+    image: /img/1279668-1366x768.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Ảnh 2 được cài đặt ALT (vậy mấy cái trên thì sao nhỉ?)
+    image: /img/32968-cute-girl-1920x1080-girl-wallpaper.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Ảnh 3 được cài đặt ALT (vậy mấy cái trên thì sao nhỉ?)
+    image: /img/2014-03-windows-xp-bliss-wallpaper.jpg
 ---
+
