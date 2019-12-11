@@ -45,8 +45,12 @@ main:
   description: >-
     Mô tả của phần "Main". Sau nhiều nội dung thì giờ mới tới "main", hơi lạ (?)
 
-    *P/s: bên dưới là mấy cái ảnh có thể gắn ALT tag, vậy mấy cái trên thì sao
+    *P/s 1: bên dưới là mấy cái ảnh có thể gắn ALT tag, vậy mấy cái trên thì sao
     nhỉ ??
+
+    *P/s 2: vụ quản lý cache trên web này cũng bất tiện, pub xong rồi không biết
+    làm sao để xóa cache cũ cho nó hiện mới luôn. Không lẽ ngồi chờ cache cũ
+    expired?
   image1:
     alt: Ảnh 1 được cài đặt ALT (vậy mấy cái trên thì sao nhỉ?)
     image: /img/1279668-1366x768.jpg
